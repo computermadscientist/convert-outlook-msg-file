@@ -1,7 +1,7 @@
 Convert Outlook .msg Files to .eml (MIME format)
 ================================================
 
-This repository contains a Python 3.9+ module for
+This repository contains a Python 3.10+ module for
 reading Microsoft Outlook .msg files and converting
 them to .eml format, which is the standard MIME
 format for email messages.

@@ -1,4 +1,4 @@
 compoundfiles
 compressed-rtf
-rtfparse # Python 3.9+ only
+rtfparse >= 0.9.0 # Python 3.9+ only
 html2text
